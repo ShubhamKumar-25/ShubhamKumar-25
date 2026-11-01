@@ -101,17 +101,12 @@ const shubham = {
   <img src="https://img.shields.io/badge/🛡️%20Hallucination-Grounding%20Techniques-795548?style=for-the-badge" alt="Hallucination"/>
 </p>
 
-### 🧩 AI Tools, APIs & Frameworks
+### 🧩 AI Tools & APIs
 
 <p>
   <img src="https://img.shields.io/badge/Groq-API-F55036?style=for-the-badge" alt="Groq"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
 
 ### 🔄 How a RAG Pipeline Works
@@ -246,10 +241,10 @@ flowchart LR
   <a href="https://github.com/ShubhamKumar-25">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="linkedin.com/in/shubham-kumar-3916162ba">
+  <a href="https://www.linkedin.com/in/linkedin.com/in/shubham-kumar-3916162ba">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="sk5989229@gmail.com">
+  <a href="mailto:sk5989229@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
